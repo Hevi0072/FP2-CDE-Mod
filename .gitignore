@@ -1,6 +1,7 @@
 /**
 !**/
 !.gitignore
+!Scenarios/Sandbox/BlueprintsSerialized/StoryArcs/Weather/BP_WhiteoutWarning_Sandbox_SA.*
 !Scenarios/Sandbox/Configs/Constants/DA_Sandbox_Constants.*
 !Scenarios/Sandbox/Configs/DifficultyLevels/Presets/DA_DLP_Challenging_Sandbox.*
 !Scenarios/Sandbox/Configs/DifficultyLevels/Presets/DA_DLP_Extreme_Sandbox.*
